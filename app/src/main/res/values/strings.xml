@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QzbLeonAPP</string>
+    <string name="textName">账号</string>
+    <string name="text2Password">密码</string>
+    <string name="editName">Please write your account name.</string>
+    <string name="edit2Password">Password.</string>
+</resources>
